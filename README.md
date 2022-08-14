@@ -22,7 +22,7 @@ Diarization is the first step to solving audio transcription, which could hep us
 
 Just Run all the notebook (warning: it takes time, almost half a hour). Use google colab to run the experiment on a run time of type GPU. If you intend to use it locally, you shoould adjust the paths of the files and have a good GPU running.
 
-## Used liberarys
+## Used liberaries
 
 Those are the libraries that are installed on the Notebook.
 
