@@ -8,7 +8,7 @@ Diarization is the first step to solving audio transcription, which could hep us
 - What problem does it solve?
     -  To know who is talking when in a group of speakers and take some insights about him/her.
 - Classification and Clustering?
-    - After Diarizing the input Audio, we appy different classification and clustering techniques like the one learned in the course.
+    - After Diarizing the input Audio, we appy different classification and clustering techniques.
 
 ## Table of Contents
 
